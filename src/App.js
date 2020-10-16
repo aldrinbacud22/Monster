@@ -53,7 +53,7 @@ class App extends Component {
         //   onChange = {e => this.setState({searchField: e.target.value})}/>
 
         <div className="App">
-          <h1>Monster </h1>
+          <h1>Monster Hero</h1>
           <SearchBox
             placeholder = 'Search a Monster'
             handleChange = {e => this.setState({searchField: e.target.value})}
