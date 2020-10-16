@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/aldrinbacud22/Monster.git/static/css/main.b9fa7772.chunk.css",
+    "main.js": "/aldrinbacud22/Monster.git/static/js/main.130dbfda.chunk.js",
+    "main.js.map": "/aldrinbacud22/Monster.git/static/js/main.130dbfda.chunk.js.map",
+    "runtime-main.js": "/aldrinbacud22/Monster.git/static/js/runtime-main.f3a0cd4c.js",
+    "runtime-main.js.map": "/aldrinbacud22/Monster.git/static/js/runtime-main.f3a0cd4c.js.map",
+    "static/js/2.ab6a2843.chunk.js": "/aldrinbacud22/Monster.git/static/js/2.ab6a2843.chunk.js",
+    "static/js/2.ab6a2843.chunk.js.map": "/aldrinbacud22/Monster.git/static/js/2.ab6a2843.chunk.js.map",
+    "index.html": "/aldrinbacud22/Monster.git/index.html",
+    "precache-manifest.b4a018bece6f75033cf8351b85800ab6.js": "/aldrinbacud22/Monster.git/precache-manifest.b4a018bece6f75033cf8351b85800ab6.js",
+    "service-worker.js": "/aldrinbacud22/Monster.git/service-worker.js",
+    "static/css/main.b9fa7772.chunk.css.map": "/aldrinbacud22/Monster.git/static/css/main.b9fa7772.chunk.css.map",
+    "static/js/2.ab6a2843.chunk.js.LICENSE.txt": "/aldrinbacud22/Monster.git/static/js/2.ab6a2843.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f3a0cd4c.js",
+    "static/js/2.ab6a2843.chunk.js",
+    "static/css/main.b9fa7772.chunk.css",
+    "static/js/main.130dbfda.chunk.js"
+  ]
+}
